@@ -1,0 +1,11 @@
+<resources>
+   <string name="app_name">Cannon Game</string>
+   <string name="results_format">Disparos: %1$d\nTiempo : %2$.1f</string>
+   <string name="reset_game">Reiniciar Partida</string>
+   <string name="win">Ganasten!</string>
+   <string name="lose">Perdiste!</string>
+   <string name="time_remaining_format">Tiempo transcurrido: %.1f segundos</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+   <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
